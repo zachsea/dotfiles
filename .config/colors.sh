@@ -1,0 +1,39 @@
+#!/bin/sh
+# ased on the tokyonight night theme
+
+export COLOR_BACKGROUND=0xf51a1b26
+export COLOR_FOREGROUND=0xf5c0caf5
+export COLOR_WM_ACCENT=0xf5283457
+export COLOR_WM_ACCENT_BRIGHT=0xf53d59a1
+
+export COLOR_BLACK=0xf515161e
+export COLOR_RED=0xf5f7768e
+export COLOR_GREEN=0xf59ece6a
+export COLOR_YELLOW=0xf5e0af68
+export COLOR_BLUE=0xf57aa2f7
+export COLOR_MAGENTA=0xf5bb9af7
+export COLOR_CYAN=0xf57dcfff
+export COLOR_WHITE=0xf5a9b1d6
+
+export COLOR_BLACK_BRIGHT=0xf5414868
+export COLOR_RED_BRIGHT=0xf5ff899d
+export COLOR_GREEN_BRIGHT=0xf59fe044
+export COLOR_YELLOW_BRIGHT=0xf5faba4a
+export COLOR_BLUE_BRIGHT=0xf58db0ff
+export COLOR_MAGENTA_BRIGHT=0xf5c7a9ff
+export COLOR_CYAN_BRIGHT=0xf5a4daff
+export COLOR_WHITE_BRIGHT=0xf5c0caf5
+
+export COLOR_BG_DARK=0xf516161e
+export COLOR_BG_HIGHLIGHT=0xf5292e42
+export COLOR_BG_VISUAL=0xf5283457
+export COLOR_BORDER=0xf515161e
+export COLOR_BORDER_HIGHLIGHT=0xf527a1b9
+export COLOR_COMMENT=0xf5565f89
+export COLOR_ERROR=0xf5db4b4b
+export COLOR_WARNING=0xf5e0af68
+export COLOR_INFO=0xf50db9d7
+export COLOR_HINT=0xf51abc9c
+export COLOR_ORANGE=0xf5ff9e64
+export COLOR_PURPLE=0xf59d7cd8
+export COLOR_TEAL=0xf51abc9c

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+source "$HOME/.config/colors.sh"
+
+export WHITE=$COLOR_WHITE
+
+export BAR_COLOR=0x00000000
+export ITEM_BG_COLOR=$WHITE
+export ACCENT_COLOR=$COLOR_WM_ACCENT
+export ACCENT_COLOR_BRIGHT=$COLOR_WM_ACCENT_BRIGHT
