@@ -14,3 +14,4 @@ vim.api.nvim_create_autocmd("User", {
 })
 
 vim.treesitter.language.register("ca65", { "asm" })
+vim.keymap.set("i", "jj", "<Esc>", { noremap = true })
